@@ -28,7 +28,7 @@ A **Plataforma de Agendamento HairDay** é uma aplicação web voltada para o **
 O projeto foi desenvolvido com foco em **arquitetura modular**, **boas práticas de JavaScript**, separação de responsabilidades e integração com uma **API simulada** utilizando `json-server`.<br>
 É totalmente **responsivo** e funcional nas versões **Desktop** e **Mobile**.
 
-### Funcionalidades principais:
+### ⭐ Funcionalidades principais:
 
 - Criação de agendamentos com nome do cliente, data e horário.
 - Listagem de agendamentos filtrados por dia.
@@ -54,7 +54,7 @@ Desenvolvido com:
 
 ---
 
-## 🔖 Layout
+## 🖼️ Layout
 
 Visualize o layout do projeto:
 
@@ -69,7 +69,7 @@ Visualize o layout do projeto:
 
 ---
 
-## 📝 Como Abrir o Projeto
+## ⚙️ Configuração do Projeto
 
 1. Clone ou baixe o repositório.
 2. No terminal, instale as dependências do projeto: `npm install`.
@@ -78,7 +78,7 @@ Visualize o layout do projeto:
 4. Inicie o ambiente de desenvolvimento: `npm run dev`.
    - A aplicação será aberta em: http://localhost:3000.
 
-## 📝 Como Usar o Projeto
+## 📖 Como Usar a Aplicação
 
 1. Selecione uma data.
 2. Escolha um horário disponível.
